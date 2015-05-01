@@ -26,9 +26,11 @@ java -jar aggregate-1.0.jar transactions.csv exchangerates.csv "xiFHy" GBP
 
 Test results (100 partners and 100.000.000 transactions):
 ---------------------------------------------------------
+(MacBook Pro, 2.3 GHz Intel Core i7, 16 GB 1600 MHz DDR3)
 ```
 java -jar aggregate-1.0.jar transactions.csv exchangerates.csv "xiFHy" GBP
 ```
+
 1.
 <pre><code>
 Getting aggregated transactions by partner...
